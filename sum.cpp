@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int a=2,b=3;
-    cout<<a+b<<endl;
+    cout<<"The sum is "<<a+b<<endl;
 
     return 0;
 }
